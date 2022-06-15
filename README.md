@@ -283,5 +283,6 @@ $
 
 ## Authors :black_nib:
 
-Flovian owiti <https://github.com/flovian>
-Victor Azangu <https://github.com/victorsazangu>
+Esther Muthui <<https://github.com/estarmalkia>
+Emmanuel Saura <https://github.com/emmanuel354>
+
