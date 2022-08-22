@@ -1,7 +1,6 @@
 /*
  * File: built.c
- * Auth: Flovian owiti
- *       Victor azangu
+ * Auth: emmanuel
  */
 
 #include "main.h"
